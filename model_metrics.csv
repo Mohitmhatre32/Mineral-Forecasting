@@ -1,4 +1,4 @@
-Mineral,MAE,RMSE,MAPE (%),Model
-Copper,16.51,20.32,5.13,"ARIMA (5,1,0)"
-Graphite,0.03,0.04,4.86,"ARIMA (5,1,0)"
-Lithium (Carbonate),0.47,0.48,45.01,"ARIMA (5,1,0)"
+Mineral,Best_Model,MAE,RMSE
+Copper,"ARIMA (1, 1, 1)",36.71,6.06
+Graphite,"Neural Net MLP (100, 50)",0.04,0.21
+Lithium (Carbonate),"ARIMA (5, 1, 0)",0.12,0.34
