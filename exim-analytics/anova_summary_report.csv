@@ -1,6 +1,0 @@
-Analysis,F-statistic,p-value,Significance,Decision
-Copper_by_year,13.8346,0.000000,Highly Significant (***),Reject H₀
-Lithium_by_year,12.3071,0.000000,Highly Significant (***),Reject H₀
-Graphite_by_year,16.5978,0.000000,Highly Significant (***),Reject H₀
-minerals_comparison,910.6762,0.000000,Highly Significant (***),Reject H₀
-seasonal_patterns,3.0501,0.029242,Significant (*),Reject H₀

@@ -1,0 +1,4 @@
+Mineral,MAE,RMSE,MAPE (%),Model
+Copper,16.51,20.32,5.13,"ARIMA (5,1,0)"
+Graphite,0.03,0.04,4.86,"ARIMA (5,1,0)"
+Lithium (Carbonate),0.47,0.48,45.01,"ARIMA (5,1,0)"
