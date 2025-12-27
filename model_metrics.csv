@@ -1,4 +1,4 @@
-Mineral,Best_Model,MAE,RMSE
-Copper,"ARIMA (1, 1, 1)",36.71,6.06
-Graphite,"Neural Net MLP (100, 50)",0.04,0.21
-Lithium (Carbonate),"ARIMA (5, 1, 0)",0.12,0.34
+Mineral,R2_Score
+Copper,-32.758
+Graphite,-1.642
+Lithium (Carbonate),-83.431
