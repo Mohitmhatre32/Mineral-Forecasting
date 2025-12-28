@@ -17,6 +17,10 @@ import numpy as np
 
 files = [
     {'name': '18-19.xlsx', 'year': '2018-2019'},
+    {'name': '19-20.xlsx', 'year': '2019-2020'},
+    {'name': '20-21.xlsx', 'year': '2020-2021'},
+    {'name': '21-22.xlsx', 'year': '2021-2022'},
+    {'name': '22-23.xlsx', 'year': '2022-2023'},
     {'name': '23-24.xlsx', 'year': '2023-2024'},
     {'name': '24-25.xlsx', 'year': '2024-2025'}
 ]
