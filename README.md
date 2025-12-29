@@ -100,7 +100,6 @@ to predict **supply gaps**, **systemic risks**, and **geopolitical shock scenari
 ```bash
 git clone https://github.com/Mohitmhatre32/Mineral-Forecasting.git
 cd Mineral-Forecasting
-git checkout data-Integration
 ```
 
 ### 2. Install Dependencies
@@ -120,14 +119,6 @@ streamlit run app.py
 ```
 
 ---
-
-## 🛡️ Strategic Impact
-
-This system aligns directly with:
-
-- **National Mineral Policy**
-- **Atmanirbhar Bharat**
-- **$5 Trillion Economy Vision**
 
 By ranking minerals using a Sovereignty Index, policymakers can:
 
