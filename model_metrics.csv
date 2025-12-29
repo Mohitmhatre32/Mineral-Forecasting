@@ -1,0 +1,14 @@
+Mineral,R2_Score,MAE,Model_Type
+Cobalt-MattesIntermediates,0.994,0.0,Hybrid ARIMA-LSTM
+Copper,0.958,36.54,Hybrid ARIMA-LSTM
+Graphite-ArtificialGraphite,0.958,0.53,Hybrid ARIMA-LSTM
+Graphite-NaturalGraphite,0.292,0.12,Hybrid ARIMA-LSTM
+Graphite,-1.112,0.11,Hybrid ARIMA-LSTM
+LithiumCarbonate,0.994,0.18,Hybrid ARIMA-LSTM
+LithiumHydroxide,0.929,0.78,Hybrid ARIMA-LSTM
+Lithium (Carbonate),0.89,0.29,Hybrid ARIMA-LSTM
+RareEarthMetal-Compounds,0.988,0.02,Hybrid ARIMA-LSTM
+RareEarthMetal-FerroAlloys,0.99,0.01,Hybrid ARIMA-LSTM
+Titanium-Ores,0.594,0.43,Hybrid ARIMA-LSTM
+Titanium-TitaniumDioxide,0.765,0.73,Hybrid ARIMA-LSTM
+Titanium-UnwroughtMetalPowders,0.955,0.08,Hybrid ARIMA-LSTM
